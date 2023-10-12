@@ -169,7 +169,7 @@ namespace EmployeesDetail
 
         public static void funct()
         {
-            int num = 122;
+            int num = 100;
         }
 
      }                     
