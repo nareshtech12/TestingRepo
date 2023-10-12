@@ -179,6 +179,7 @@ namespace EmployeesDetail
         public void test()
         {
             int i = 12;
+            int j = 13;
         }
      }                     
 
