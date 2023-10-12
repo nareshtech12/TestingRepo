@@ -170,6 +170,7 @@ namespace EmployeesDetail
         public static void funct()
         {
             int num = 100;
+            string name = "Ram";
         }
 
      }                     
