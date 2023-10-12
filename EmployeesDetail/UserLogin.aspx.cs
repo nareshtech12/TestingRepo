@@ -171,6 +171,8 @@ namespace EmployeesDetail
         {
             int num = 100;
             string name = "Ram";
+            string fathername = "Rajeev";
+
         }
 
      }                     
