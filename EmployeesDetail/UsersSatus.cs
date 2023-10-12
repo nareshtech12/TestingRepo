@@ -7,5 +7,6 @@ namespace EmployeesDetail
 {
     public class UsersSatus
     {
+        public int MyProperty { get; set; }
     }
 }
