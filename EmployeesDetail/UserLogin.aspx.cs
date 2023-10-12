@@ -167,7 +167,10 @@ namespace EmployeesDetail
 
         //}
 
-
+        public static void funct()
+        {
+            int num = 122;
+        }
 
      }                     
 
