@@ -175,6 +175,11 @@ namespace EmployeesDetail
 
         }
 
+
+        public void test()
+        {
+
+        }
      }                     
 
     }
