@@ -178,7 +178,7 @@ namespace EmployeesDetail
 
         public void test()
         {
-            sting m = "mohan";
+            int i = 12;
         }
      }                     
 
