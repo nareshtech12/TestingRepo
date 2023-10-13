@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>System.Web.Optimization</name>
+  </assembly>
+  <members>
+    <member name="T:System.Web.Optimization.Bundle">
+      <summary>Represents a list of file references to be bundled together as a single resource.</summary>
+    </member>
+    <member name="M:System.Web.Optimization.Bundle.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:System.Web.Optimization.Bundle" /> class.</summary>
+    </member>
+    <member name="M:System.Web.Optimization.Bundle.#ctor(System.String)">
+      <summary>Initializes a new instance of the <see cref="T:System.Web.Optimization.Bundle" /> class.</summary>
+      <param name="virtualPath">The virtual path used to reference the <see cref="T:System.Web.Optimization.Bundle" /> from within a view or Web page.</param>
+    </member>
+    <member name="M:System.Web.Optimization.Bundle.#ctor(System.String,System.String)">
+      <summary>Initializes a new instance of the <see cref="T:System.Web.Optimization.Bundle" /> class.</summary>
+      <param name="virtualPath">The virtual path used to reference the <see cref="T:System.Web.Optimization.Bundle" /> from within a view or Web page.</param>
+      <param name="cdnPath">An alternate url for the bundle when it is stored in a content delivery network.</param>
+    </member>
+    <member name="M:System.Web.Optimization.Bundle.#ctor(System.String,System.String,System.Web.Optimization.IBundleTransform[])">
+      <summary>Initializes a new instance of the <see cref="T:System.Web.Optimization.Bundle" /> class.</summary>
+      <param name="virtualPath">The virtual path used to reference the <see cref="T:System.Web.Optimization.Bundle" /> from within a view or Web page.</param>
+      <param name="cdnPath">An alternate url for the bundle when it is stored in a content delivery network.</param>
