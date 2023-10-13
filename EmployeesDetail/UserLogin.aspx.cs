@@ -180,7 +180,7 @@ namespace EmployeesDetail
         {
             int i = 12;
             int j = 1000;
-            int k= 33000;
+            int k= 3000;
         }
      }                     
 
