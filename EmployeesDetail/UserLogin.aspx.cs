@@ -178,7 +178,7 @@ namespace EmployeesDetail
 
         public void test()
         {
-            int i = 12;
+            int i = 4000;
             int j = 1000;
             int k= 3000;
         }
