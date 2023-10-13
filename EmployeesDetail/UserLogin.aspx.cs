@@ -178,8 +178,22 @@ namespace EmployeesDetail
 
         public void test()
         {
+
+
             int i = 12;
+            double myDouble = i;
+
+            double myd = 23.21;
+
+            int myint = (int)(myd);
+
+            int m = Convert.ToInt32(myd);
+         
+
+
+
+
         }
-     }                     
+    }                     
 
     }
