@@ -179,7 +179,6 @@ namespace EmployeesDetail
         public void test()
         {
 
-
             int i = 12;
             double myDouble = i;
 
@@ -189,9 +188,9 @@ namespace EmployeesDetail
 
             int m = Convert.ToInt32(myd);
          
-
-
-
+            int i = 4000;
+            int j = 1000;
+            int k= 3000;
 
         }
     }                     
