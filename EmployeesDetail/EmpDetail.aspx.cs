@@ -4,6 +4,7 @@ using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Web.Services;
+using ClassLibrary5;
 using Microsoft.ApplicationBlocks.Data;
 
 
@@ -14,7 +15,9 @@ namespace EmployeesDetail
 
         SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["Dbconnection"].ConnectionString);
 
- 
+        Class1 objone = new Class1();
+        Class2 obj = new Class1();
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
