@@ -15,8 +15,9 @@ namespace EmployeesDetail
 
         SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["Dbconnection"].ConnectionString);
 
-        Class1 objone = new Class1();
-        Class2 obj = new Class1();
+        Class1 objtwo = new Class1();
+
+        int i = 0;
 
         protected void Page_Load(object sender, EventArgs e)
         {
