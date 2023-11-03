@@ -19,6 +19,7 @@ namespace EmployeesDetail
 
         int i = 1000;
         int j = 2000;
+        int k = 500;
 
         protected void Page_Load(object sender, EventArgs e)
         {
