@@ -18,8 +18,9 @@ namespace EmployeesDetail
         Class1 objtwo = new Class1();
 
         int i = 1000;
+
         int j = 2000;
-        int k = 500;
+        int k = 900;
 
         protected void Page_Load(object sender, EventArgs e)
         {
