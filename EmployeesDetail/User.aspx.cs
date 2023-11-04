@@ -12,6 +12,9 @@ namespace EmployeesDetail
     {
         string con = ConfigurationManager.ConnectionStrings["Dbconnection"].ConnectionString;
 
+        int p = 90;
+
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
