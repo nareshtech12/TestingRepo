@@ -1,4 +1,3 @@
-﻿
 using Microsoft.ApplicationBlocks.Data;
 using System;
 using System.Configuration;
@@ -178,9 +177,11 @@ namespace EmployeesDetail
 
         public void test()
         {
+
             int i = 12;
             int j = 1000;
             int k= 3000;
+
         }
      }                     
 
